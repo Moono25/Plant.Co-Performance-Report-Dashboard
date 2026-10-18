@@ -245,7 +245,7 @@ PlantCo-Sales-Performance-Dashboard/
 
 ## Author
 
-**Saul Moono**
+**Mapenzi Moono**
 
 Data Analytics Portfolio
 
